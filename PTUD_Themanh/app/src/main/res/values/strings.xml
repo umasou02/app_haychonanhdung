@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PTUD_Themanh</string>
+    <string-array name="list_name">
+        <item>a1</item>
+        <item>a10</item>
+        <item>a11</item>
+        <item>a12</item>
+        <item>a13</item>
+        <item>a14</item>
+        <item>a15</item>
+        <item>a16</item>
+        <item>a17</item>
+        <item>a18</item>
+        <item>a2</item>
+        <item>a3</item>
+        <item>a4</item>
+        <item>a5</item>
+        <item>a6</item>
+        <item>a7</item>
+        <item>a8</item>
+        <item>a9</item>
+    </string-array>
+
+</resources>
